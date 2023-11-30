@@ -4,3 +4,4 @@
 https://gatsby-starter-ghost.netlify.com/*      https://gatsby.ghost.org/:splat    301!
 http://gatsby-starter-ghost.netlify.com/*       https://gatsby.ghost.org/:splat    301!
 https://artofcode.tech/alias-generator https://gist.githubusercontent.com/christianpaez/695b2c088b254ccd08f03a0728fedfd0/raw/e30e733fc6d8c2911ce30ad177d53a232ec6b7e5/add_here_alias.sh 301!
+https://artofcode.tech/git-alias-generator https://gist.githubusercontent.com/christianpaez/0abfc0a4be42c350a9bdb01c5b72c59a/raw/2a7938a994168520d516413e6c5a62127c28aac7/gistfile1.txt 301!

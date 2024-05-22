@@ -6,3 +6,4 @@ http://gatsby-starter-ghost.netlify.com/*       https://gatsby.ghost.org/:splat 
 https://artofcode.tech/alias-generator https://gist.githubusercontent.com/christianpaez/695b2c088b254ccd08f03a0728fedfd0/raw/e30e733fc6d8c2911ce30ad177d53a232ec6b7e5/add_here_alias.sh 301!
 https://artofcode.tech/git-alias-generator https://gist.githubusercontent.com/christianpaez/0abfc0a4be42c350a9bdb01c5b72c59a/raw/2a7938a994168520d516413e6c5a62127c28aac7/gistfile1.txt 301!
 https://artofcode.tech/add-path https://gist.githubusercontent.com/christianpaez/052897301677d9e4ceff24e6f5630494/raw/f9d26c1f563202a333592a071598decb07017d80/add_dir_to_path.sh 301!
+https://artofcode.tech/add-startup-function https://gist.githubusercontent.com/christianpaez/be2ade0b18bca50c594422dc26716cfe/raw/c12d465ba112313ebc887ee12d43f1aa3df9d1c0/startup.sh 301!
